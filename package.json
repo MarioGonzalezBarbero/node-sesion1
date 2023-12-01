@@ -1,0 +1,15 @@
+{
+  "name": "sesion1",
+  "version": "1.0.0",
+  "description": "Subir contenido desde una pagina Web a un servidor",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MGB",
+  "license": "ISC",
+  "dependencies": {
+    "formidable": "^3.5.1",
+    "mv": "^2.1.1"
+  }
+}
